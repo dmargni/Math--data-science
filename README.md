@@ -20,6 +20,7 @@
 ## Notes
 
 [GitHub mark down notes](https://github.com/dmargni/Math-for-data-science/blob/8b80bed9b2cb4cc5a9abed1989e5aaba27457d37/GitHub%20mark%20down%20notes.md)
+[NumPy notes](https://github.com/dmargni/Math-for-data-science/blob/992b0ab20d8f61cae9b087a7c8ffa8cc708d0b26/numPy%20notes.md)
 
 # Satosa.io
 [satosa.io](https://setosa.io/ev/ordinary-least-squares-regression/)
