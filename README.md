@@ -15,7 +15,11 @@
 
 [Notebook2](https://colab.research.google.com/drive/1cYJHbCGW_7ZGhqttEllTlyoAQzLBepHD)
 
-[MTI Database](https://colab.research.google.com/drive/1kHdUUEayN_P7rFj0Re5Oq7_H_qj7iYFr)
+[MNIST Database](https://colab.research.google.com/drive/1kHdUUEayN_P7rFj0Re5Oq7_H_qj7iYFr)
+
+[Flowers 102](https://colab.research.google.com/drive/11_qgqnhhXsajGW44GtuZwiRSS-cfApVu#scrollTo=fdJFcSO0DrMU)
+
+[HTML Filters](https://colab.research.google.com/drive/1XPf2fMCMgm7VIDRv4evswQfn5__Lxn77#scrollTo=SDwJiqwauOfJ)
 
 ## Notes
 
