@@ -2,13 +2,13 @@
 
 <hr>
 
-## Development of a Website
-
-[Website](https://dmargni.github.io/Math-for-data-science/)
-
 ## Attaching link to get image
 
 [Image](https://github.com/dmargni/Math-for-data-science/blob/eb955175b60756fac205bbdeed5aee94452a6103/floridaatlanticuniversityfront.jpg)
+
+## Development of a Website
+
+[Website](https://dmargni.github.io/Math-for-data-science/)
 
 ## Notebooks
 [Notebook1](https://colab.research.google.com/drive/1y-yz7dJ6TTgrUzfhAHNdeqSU1HP29GZl)
