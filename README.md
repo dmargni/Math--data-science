@@ -1,5 +1,7 @@
 # Mathematics of Data Science
 
+# Attaching link to get image
+
 <hr>
 
 
