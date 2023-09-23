@@ -2,9 +2,9 @@
 
 <hr>
 
-## Website
+## Development of a Website
 
-
+[Website](https://dmargni.github.io/Math-for-data-science/)
 
 ## Attaching link to get image
 
