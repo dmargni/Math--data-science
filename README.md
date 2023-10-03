@@ -32,6 +32,8 @@
 
 ## ChatGPT html files
 
+[Demo website](https://dmargni.github.io/Math-for-data-science/demo_index)
+
 [Demolist](demo_index.html)
 
 [Calendar](calendar.html)
