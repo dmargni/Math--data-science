@@ -29,3 +29,22 @@
 
 # Satosa.io
 [satosa.io](https://setosa.io/ev/ordinary-least-squares-regression/)
+
+## ChatGPT html files
+
+[Calendar](calendar.html)
+
+[Coin flip](coin_flip.html)
+
+[Countdown](countdown.html)
+
+[Dice](dice.html)
+
+[Random picker](picker.html)
+
+[To do list](to_do.html)
+
+[Trash night](trash.html)
+
+
+
