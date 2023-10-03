@@ -34,7 +34,7 @@
 
 [Calendar](calendar.html)
 
-[Coin flip](coin_flip.html)
+[Coin flip]()
 
 [Countdown](countdown.html)
 
