@@ -32,6 +32,8 @@
 
 ## ChatGPT html files
 
+[Demolist](demo_index.html)
+
 [Calendar](calendar.html)
 
 [Coin flip](coin_flip.html)
