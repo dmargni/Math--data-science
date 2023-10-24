@@ -23,6 +23,14 @@
 
 [Webcam Filter](https://colab.research.google.com/drive/1A0mGkSSxRZXofQzQoiKXpeTvpmG3Ix1T#scrollTo=eoSD3ICZcCZj)
 
+[AlexNet](https://colab.research.google.com/drive/1p7OpBybLitrvj-QvAnX275RpCxWcNgGG)
+
+[Custom Data filter](https://colab.research.google.com/drive/1F5xAFrrd82Z7MdDWER4zt4MqVlmoFU01)
+
+[AlexNet train from Slides](https://colab.research.google.com/drive/1cJsT6Y5A58KkEAoU9FOdnHAt5IVdWmcw)
+
+##
+
 ## Notes
 
 [GitHub mark down notes](https://github.com/dmargni/Math-for-data-science/blob/8b80bed9b2cb4cc5a9abed1989e5aaba27457d37/GitHub%20mark%20down%20notes.md)
