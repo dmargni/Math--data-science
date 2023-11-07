@@ -29,6 +29,12 @@
 
 [AlexNet train from Slides](https://colab.research.google.com/drive/1cJsT6Y5A58KkEAoU9FOdnHAt5IVdWmcw)
 
+[Yolo](https://colab.research.google.com/drive/1vpEOTgw0r83iFOQA_2At72oxjyHvVZEX)
+
+[Audio](https://colab.research.google.com/drive/1Y_4Ay1he0IiSskeDeiPNsEsmoWSroVSg)
+
+
+
 ##
 
 ## Notes
